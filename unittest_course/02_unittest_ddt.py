@@ -135,3 +135,8 @@ if __name__ == '__main__':
 python yaml使用：https://blog.csdn.net/lmj19851117/article/details/78843486
 python yaml使用: https://wsa.jianshu.io/p/d99abfaafdf6
 '''
+
+'''
+下节课：requests + ddt 接口数据驱动开发
+重要：基本上在公司里面的自动化项目都会要到，下节课开始就是项目的基本库封装和开端
+'''
